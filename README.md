@@ -1,4 +1,9 @@
 # ⚡ Discord Glass Dashboard
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blueviolet)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 A sleek, modern user analytics and profile dashboard built for Discord users, featuring a custom **glassmorphism** UI powered by Tailwind CSS.
 
