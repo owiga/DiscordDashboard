@@ -14,7 +14,7 @@ A sleek, modern user analytics and profile dashboard built for Discord users, fe
 - 🔗 **Connected Accounts Showcase** (Spotify, GitHub, Steam, Twitch, YouTube, etc.).
 - 📂 **Joined Guilds Grid** displaying user servers and roles.
 
-- ## ⚡ Quick Start
+## ⚡ Quick Start
 ### 1. Clone the repository
 ```bash
 git clone [https://github.com/owiga/DiscordDashboard.git](https://github.com/owiga/DiscordDashboard.git)
